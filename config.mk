@@ -1,4 +1,6 @@
 PRODUCT_PACKAGES += \
+    OnePlusCamera \
+    OnePlusCameraService \
     OnePlusScreenRecorder \
     OnePlusGallery \
     OnePlusFileManager
